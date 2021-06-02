@@ -1,0 +1,98 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.root {
+  display: flex;
+}
+.enter {
+  margin-left: 49%;
+  margin-right: 49%;
+  margin-top: 20%;
+}
+
+.header {
+  background-color: teal;
+}
+.pub {
+  margin-right: 10px;
+  margin-bottom: 23px;
+}
+.user {
+  margin-left: 10px;
+  margin-bottom: 23px;
+}
+.exit {
+  margin-right: 20px;
+  margin-bottom: 23px;
+  float: right;
+}
+
+.reposes {
+  border: 1px solid silver;
+  margin-top: 10px;
+  margin-left: 25%;
+  border-radius: 10px;
+  width: 50%;
+  padding: 10px;
+}
+
+.preloader {
+  height: 100%;
+  width: 100%;
+  background: whitesmoke;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 2;
+  perspective: 1600px;
+  perspective-origin: 20% 50%;
+  transition: 0.5s all;
+  opacity: 1;
+}
+.loader {
+  width: 60px;
+  height: 80px;
+  border: 2px solid whitesmoke;
+  border-top: 3px solid cadetblue;
+  border-radius: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  animation: spin 1s infinite linear;
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.repo {
+  border: 1px solid silver;
+  margin: 10px 0;
+}
+
+.page {
+  position: absolute;
+  left: 36%;
+  top: 30%;
+  border: 1px solid silver;
+  width: 500px;
+  background-color: teal;
+  padding: 10px;
+  color: white;
+}
+
+.close {
+  margin-right: 10px;
+}
+#searchInput {
+  border-radius: 5px;
+  height: 35px;
+}
