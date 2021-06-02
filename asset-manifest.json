@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-graphQL/static/css/main.6f2fc97b.chunk.css",
+    "main.js": "/react-graphQL/static/js/main.932642ea.chunk.js",
+    "main.js.map": "/react-graphQL/static/js/main.932642ea.chunk.js.map",
+    "runtime~main.js": "/react-graphQL/static/js/runtime~main.1e249740.js",
+    "runtime~main.js.map": "/react-graphQL/static/js/runtime~main.1e249740.js.map",
+    "static/css/2.d893cde1.chunk.css": "/react-graphQL/static/css/2.d893cde1.chunk.css",
+    "static/js/2.fe1e8312.chunk.js": "/react-graphQL/static/js/2.fe1e8312.chunk.js",
+    "static/js/2.fe1e8312.chunk.js.map": "/react-graphQL/static/js/2.fe1e8312.chunk.js.map",
+    "index.html": "/react-graphQL/index.html",
+    "precache-manifest.74730385adcb9568c530e6ab239e9ea3.js": "/react-graphQL/precache-manifest.74730385adcb9568c530e6ab239e9ea3.js",
+    "service-worker.js": "/react-graphQL/service-worker.js",
+    "static/css/2.d893cde1.chunk.css.map": "/react-graphQL/static/css/2.d893cde1.chunk.css.map",
+    "static/css/main.6f2fc97b.chunk.css.map": "/react-graphQL/static/css/main.6f2fc97b.chunk.css.map"
+  }
+}
